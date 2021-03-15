@@ -1,0 +1,16 @@
+neraca ga balance
+tools rekonsiliasi
+harus ada validasi untuk adjustment balance
+minta upgrade atau implementasi ulang
+ada sisi inputan dari business unit
+tanggal 2
+
+SLA nya tidak jelas karna dari bisnis dan direksi
+ITOD 
+
+analisa kelayakan system di itod
+
+yang ga ke core apa
+yang core seperti apa
+pa firman
+c
